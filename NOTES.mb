@@ -1,0 +1,1 @@
+// Para obtener log tags por fecha  ---/ git log --tags --simplify-by-decoration --pretty="format:%ai %d"
